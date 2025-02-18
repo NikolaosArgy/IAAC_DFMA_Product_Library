@@ -25,9 +25,6 @@ On localhost, the rewrite will be made to the `127.0.0.1:8000` port, which is wh
 
 In production, the FastAPI server is hosted as [Python serverless functions](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python) on Vercel.
 
-## Demo
-
-https://nextjs-fastapi-starter.vercel.app/
 
 ## Deploy Your Own
 
@@ -40,7 +37,7 @@ You can clone & deploy it to Vercel with one click:
 You can clone & create this repo with the following command
 
 ```bash
-npx create-next-app nextjs-fastapi --example "https://github.com/digitros/nextjs-fastapi"
+npx create-next-app iaac_dfma_product_library --example "https://github.com/NikolaosArgy/IAAC_DFMA_Product_Library"
 ```
 
 ## Getting Started
