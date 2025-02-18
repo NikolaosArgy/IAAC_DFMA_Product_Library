@@ -42,7 +42,7 @@ npx create-next-app iaac_dfma_product_library --example "https://github.com/Niko
 
 ## Getting Started
 
-First, create and activate a virtual environment:
+(OPTIONAL) Create and activate a virtual environment:
 
 ```bash
 python3 -m venv venv
